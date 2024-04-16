@@ -1,0 +1,19 @@
+Last login: Tue Apr 16 05:03:03 on ttys008
+/Users/adnaanchida/Desktop/complicatedCodeForParking/parkingComplexCode ; exit;
+(base) adnaanchida@Adnaans-MacBook-Pro ~ % /Users/adnaanchida/Desktop/complicatedCodeForParking/parkingComplexCode ; exit;
+Car parked successfully in regular space
+Car parked successfully in regular space
+Car parked successfully in regular space
+Occupied spaces: 3/10
+Car with license plate XYZ789 removed from parking lot
+Occupied spaces after removing car: 2/10
+Search for car by license plate:
+Car with license plate ABC123 found in parking lot
+Car with license plate XYZ789 not found in parking lot
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+[Process completed]
